@@ -16,8 +16,12 @@
 .idea/**/uiDesigner.xml
 
 # Gradle:
+/build/
+.gradle
 .idea/**/gradle.xml
 .idea/**/libraries
+.idea/**/modules
+.idea/**/artifacts
 
 # CMake
 cmake-build-debug/
